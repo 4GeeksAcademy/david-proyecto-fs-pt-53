@@ -1,0 +1,11 @@
+div {
+    border: solid 1px black;
+}
+
+.layout {
+    height: 400px;
+}
+
+.layout > div {
+    background-color: violet;
+}
