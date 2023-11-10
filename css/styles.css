@@ -5,7 +5,3 @@ div {
 .layout {
     height: 400px;
 }
-
-.layout > div {
-    background-color: violet;
-}
